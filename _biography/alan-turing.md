@@ -8,11 +8,9 @@ categories:
   - Ορισμός 
 tags:
   - Alan Turing
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
+  - Turing Award
+  - Algorithms
+  - Cryptography
 ---
 
 {% include bio-turing.md %}
